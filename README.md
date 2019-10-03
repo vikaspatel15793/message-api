@@ -18,5 +18,5 @@
 - Username: user1 and Password: user1
 - Username: user2 and Password: user2
 
-## POSTMAN URIS
+## POSTMAN Collection
 https://documenter.getpostman.com/view/5099717/SVtPZrep
